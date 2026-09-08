@@ -1,3 +1,6 @@
 librosa
 numpy
 streamlit
+yt-dlp
+scikit-learn
+scipy
